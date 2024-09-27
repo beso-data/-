@@ -2,5 +2,5 @@
 DATA ANALYST PROJECT
 ## Αποθεητηριο 
 ### Εναρξη δοκιμης
-** Bold text**
+**Bold text**
 *Italic text*
