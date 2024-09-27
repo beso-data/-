@@ -8,3 +8,4 @@ DATA ANALYST PROJECT
 **Bold and _nested_ italic**
 ***all bold and italic***
 For <sub>subscript</sub> text
+For <sup>superscript</sup>
